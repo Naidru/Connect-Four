@@ -1,4 +1,4 @@
-import check, net
+from libs import check, net
 
 
 def singleplayer_easy():
